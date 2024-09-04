@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajwal Tidke</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
-
+<h3 align="left">A passionate Data Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptidke&label=Profile%20views&color=blueviolet&style=flat" alt="ptidke" /> </p>
 
 <p align="left"> <a href="https://twitter.com/stungravy69" target="blank"><img src="https://img.shields.io/twitter/follow/stungravy69?logo=twitter&style=for-the-badge" alt="stungravy69" /></a> </p>
